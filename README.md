@@ -1,7 +1,7 @@
 > :warning: This project is considered experimental and is not recommended for production use. Functionality may break at any time.
 
 # create-device
-Create a device in the Golioth Cloud with GitHub Actions. Requires setup via [setup-goliothctl](https://github.dev/golioth
+Create a device in the Golioth Cloud with GitHub Actions. Requires setup via [setup-goliothctl](https://github.dev/golioth).
 
 # ✨ Quickstart
 
