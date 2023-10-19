@@ -5,7 +5,7 @@ Create a device in the Golioth Cloud with GitHub Actions. Requires setup via [se
 
 # ✨ Quickstart
 
-To install the latest version of the Golioth CLI:
+To create a device using the latest version of the Golioth CLI:
 
 ```yaml
 - name: Checkout
