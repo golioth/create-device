@@ -24,7 +24,7 @@ To create a device using the latest version of the Golioth CLI:
     deviceTag: ci
 ```
 
-`deviceName` is a required input. `setup-goliothctl` also requires a Golioth API Key and Project ID. See [golioth/setup-goliothctl](https://github.com/golioth/setup-goliothctl) for more details.
+`deviceName` is a required input. `setup-goliothctl` requires a Golioth API Key and Project ID. See [golioth/setup-goliothctl](https://github.com/golioth/setup-goliothctl) for more details.
 
 # Inputs
 
